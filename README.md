@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unknown012345
 - 👀 I’m interested in cycling
-- 🌱 I’m currently learning PowerBI, R and Python
+- 🌱 I’m currently learning PowerBI, R, Python and Swift
 - 💞️ I’m looking to collaborate on AI and Machine Learning
 
 <!---
